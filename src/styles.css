@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+}
+
+.App #title {
+    color: red;
+}
+
+.App .box .colleges label {
+    margin-right: 30px;
+}
+
+.App .box .colleges input {
+    margin-right: -5px;
+}
+
+.App .box .course label {
+    margin-right: 30px;
+}
+
+.App .box .course input {
+    margin-right: -5px;
+}
+
+#postGraduate {
+    margin-right: 0px;
+}
